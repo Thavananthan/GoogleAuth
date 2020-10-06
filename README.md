@@ -1,6 +1,9 @@
 # GoogleAuth
 
-Step 1: Download and Past a project called GoogleAuth place it in C:\xampp\htdocs\GoogleAuth folder.
-Step 2: Open the XAMPP Control Panel
-Step 3: Start Apache and MySQL Modules
-Step 4: Try visiting http://localhost/GoogleAuth in your browser.
+Pre-requisite : XAMPP
+
+Step 1: Download and Past the project folder "GoogleAuth" inside "C:\xampp\htdocs" folder.
+# Project path should be "C:\xampp\htdocs\GoogleAuth". 
+Step 2: Open the XAMPP Control Panel.
+Step 3: Start Apache and MySQL Modules.
+Step 4: Try visiting "localhost:Apache port number/GoogleAuth" in your browser.
